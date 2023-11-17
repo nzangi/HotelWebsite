@@ -44,7 +44,6 @@
     display: flex;
     justify-content: center;
     flex-direction: column;
-
     padding: 32px 64px;
 }
 .trending__list{
@@ -98,7 +97,7 @@
 .trending-sushi , .trending__image{
     background: url('../../assets/japanese_sushi.png');
 }
-.trending-drink , .trending__image{
+.trending-drinks , .trending__image{
     background: url('../../assets/japanese_drinks.png');
 }
 
